@@ -67,7 +67,6 @@ The project includes:
 
 ##  Project Structure
 
-.
 ├── semantic_similarity_vector_search.ipynb
 ├── vector_search_project_overview.pptx
 ├── output_screenshots
